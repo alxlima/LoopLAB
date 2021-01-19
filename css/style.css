@@ -1,0 +1,55 @@
+body { /*cor do cor da pagina */
+   background: #333; /*cinza escuro */
+  color: #fff;
+}
+
+.navbar { /*menu topo */
+  border-bottom: #008ed6 3px solid; /*inclui uma borta 3px, abaixo de cor Azul, no menu topo*/
+  opacity: 0.8; /*dexei uma trasparencia 0,8 no menu topo*/
+                /*assim consigo visualizar imagens de segundo plano sobrepostos*/
+}
+
+#home-section {
+  background: url(../img/home.jpg);/*Defino minha imagem plano de Fundo na sessão home*/
+  background-repeat: no-repeat;    /*Defino que minha imagem plano de Fundo na sessão home não se repita*/
+  background-size: cover;          /*Defino que minha imagem plano Fundo deve cobrir toda a area*/
+  background-attachment: fixed;    /*Defino que minha imagem plano Fundo  seja fixa e corrigida tamanho*/
+  min-height: 700px;               /*Defino que minha imagem plano Fundo  tenha 700px de altura*/
+}
+
+#home-section .dark-overlay { /*Defino a sobreposição de cor  traço escuro entre image x textos, basicicamente cobrindo a seão inicial*/
+  position: absolute;/*Defino posição absoluto, cobrindo seus divs Pai, */
+  top: 0;
+  left: 0;
+  width: 100%;/*Defino toda sobreposição cobrindo top:0 a left:0 100% o comprimento da seção */
+  min-height: 700px;/*Defino minimo de altura = o tamanho da imagem que é 700px*/
+  background: rgba(0, 0, 0, 0.7);/*Adiciono uma cor de fundo, R.G.B.A valor alfa de opacidade*/
+  /*Definido, Preto então R-Ga.vermelhor vermelho verde azul, todos no valor = 0*/
+  /*O quarto valor é a opacidade que defino para 0.7*/
+  /*O Resultado eu consigo um efeito de sombra onde escureçoo a imagem plano de fundo, deixando mais visiveis os textos em branco.*/
+}
+
+#home-section .home-inner {
+  padding-top: 150px;/*Defino a posição top de inicial 150px de seção home deixando imagem plano de Fundo abaixo do NavBar*/
+}
+
+#home-section .card-form {
+  opacity: 0.8; /*Defino uma opacidade no CardBox - Formularios Sessão Conta (sign Up Today)*/
+  /*O Resultado eu consigo um efeito de transparencia no form e objetos internos, assim consigo ver um pouco da imagem plano de fundo.*/
+}
+
+#home-section .fas,
+#create-section .fas { 
+  color: #008ed6;   /*Defino um preenchimento  Azul, inter no Icone CheckBox.*/
+  background: #fff; /*Defino um preenchimento  branco, externo ao Icone CheckBox.*/
+  padding: 5px;       /*Defino espaçamento 5px no preencimento  brando externo do Icone CheckBox.*/
+  border-radius: 5px; /*Defino arrendontamento 5px de bordas no preencimento branco do Icone CheckBox.*/
+}
+
+#explore-section .fas, /*[,] para aplicar a seção filhas(ponto flutuante*/
+#share-section .fas { 
+  background: #333;
+  color: #fff; 
+  padding: 5px;       /*Defino espaçamento 5px no preencimento preto externo do Icone CheckBox.*/
+  border-radius: 5px; /*Defino arrendontamento 5px de bordas no preencimento Preto do Icone CheckBox.*/
+}
