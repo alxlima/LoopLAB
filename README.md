@@ -47,7 +47,7 @@ Para iniciar o Servidor da aplicação utilizando o **VsCode** use o comando: **
 ## 📁 Como Baixar o Projeto
 ```bash
   # Clonar o repósitorio
-  $ git clone https://github.com/alxlima/looplab
+  $ git clone https://github.com/alxlima/LoopLAB.git
   
   # Entrar no diretório
   $ cd c:/looplab
