@@ -1,10 +1,14 @@
 # LoopLab - Social Profiles
 
-<div align="center">
+<!--div align="center" -->
 <!-- <img src="https://github.com//Proffy/blob/master/nlw2.svg" width="250px" height="auto"> -->
-<img src="prints/logo.png" width="250px" height="auto">
-</div>
+<!--img src="prints/logo.png" width="250px" height="auto" -->
+<!--/div-->
  
+<p align="center">
+  <img alt="Happy" src="prints/logo.png" width="80%">
+</p>
+
  <h5 align="center">
    <a href="https://loop-lab.vercel.app/"> Acessar a Demostração </a> 
  </h5>
@@ -27,17 +31,7 @@
 ###### **Instrutor :** Brad Traversy
 ---
 
-## 📌 Instruções : 
-Para iniciar o Servidor da aplicação utilizando o **VsCode** use o comando: **_Open Whit Live Server_** então acesse pelo navegador **_http://127.0.0.1:5500/index.html_** 
-
-
-## 🚀 **Tecnologias utilizadas**
-- **HTML** - Front-End;
-- **CSS3** - Front-End;
-- **Bootstrap 4** (Template Engine) - Front-End
----
-
-## 💻 **Prints**
+## 💻 **Telas**
 
 <div align="center">
 <img src="prints/00.gif" width="240px" height="auto">
@@ -48,6 +42,16 @@ Para iniciar o Servidor da aplicação utilizando o **VsCode** use o comando: **
 <br>
 
 ---
+## 📌 Instruções : 
+Para iniciar o Servidor da aplicação utilizando o **VsCode** use o comando: **_Open Whit Live Server_** então acesse pelo navegador **_http://127.0.0.1:5500/index.html_** 
+
+
+## 🚀 **Tecnologias utilizadas**
+- **HTML** - Front-End;
+- **CSS3** - Front-End;
+- **Bootstrap 4** (Template Engine) - Front-End
+---
+
 
 ## 📁 Como Baixar o Projeto
 ```bash
