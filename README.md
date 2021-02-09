@@ -6,11 +6,12 @@
 <!--/div-->
  
 <p align="center">
-  <img alt="Happy" src="prints/logo.png" width="80%">
+  <img alt="LoopLAB" src="prints/loopLAB.png" width="100%">
 </p>
 
+ <!-- Link para teste-->
  <h5 align="center">
-   <a href="https://loop-lab.vercel.app/"> Acessar a Demostração </a> 
+    🎬 Clique Aqui: &nbsp; <a href="https://loop-lab.vercel.app/">  Para Acessar a Demonstração </a> 
  </h5>
 
 ---
