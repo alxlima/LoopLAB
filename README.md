@@ -59,10 +59,10 @@
 ## 💻 **Telas**
 
 <div align="center">
-  <img src="prints/00.gif" width="240px" height="auto">
-  <img src="prints/01.gif" width="240px" height="auto">
-  <img src="prints/02.gif" width="240px" height="auto">
-  <img src="prints/03.gif" width="240px" height="auto">
+  <img src="prints/00.gif" width="340px" height="auto">
+  <img src="prints/01.gif" width="340px" height="auto">
+  <img src="prints/02.gif" width="340px" height="auto">
+  <img src="prints/03.gif" width="340px" height="auto">
 </div>
 <br>
 <br>
