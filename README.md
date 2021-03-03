@@ -59,10 +59,10 @@
 ## 💻 **Telas**
 
 <div align="center">
-<img src="prints/00.gif" width="240px" height="auto">
-<img src="prints/01.gif" width="240px" height="auto">
-<img src="prints/02.gif" width="240px" height="auto">
-<img src="prints/03.gif" width="240px" height="auto">
+  <img src="prints/00.gif" width="240px" height="auto">
+  <img src="prints/01.gif" width="240px" height="auto">
+  <img src="prints/02.gif" width="240px" height="auto">
+  <img src="prints/03.gif" width="240px" height="auto">
 </div>
 <br>
 <br>
@@ -74,7 +74,7 @@
 
 <br>
 
-## 🚀 **Tecnologias utilizadas**
+## 🚀 **Tecnologias**
 
 - [HTML5](https://pt.wikipedia.org/wiki/HTML5) - Hyper Text Markup Language -linguagem de marcação de hipertexto.
 - [CSS3](https://pt.wikipedia.org/wiki/CSS3) - Cascading Style Sheets - estilização de código html.
