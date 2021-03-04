@@ -76,14 +76,22 @@
 
 ## 🚀 **Tecnologias**
 
-- [HTML5](https://pt.wikipedia.org/wiki/HTML5) - Hyper Text Markup Language -linguagem de marcação de hipertexto.
-- [CSS3](https://pt.wikipedia.org/wiki/CSS3) - Cascading Style Sheets - estilização de código html.
+- [HTML5](https://pt.wikipedia.org/wiki/HTML5) - Hyper Text Markup Language - Linguagem de marcação de hipertexto.
+- [CSS3](https://pt.wikipedia.org/wiki/CSS3) - Cascading Style Sheets - Estilização de código html.
 - [Java Script](https://www.javascript.com/) -  Linguagem de programação utilizada em páginas web. Com o JS.
 - [Bootstrap 4](https://getbootstrap.com/docs/4.1/getting-started/download/) - Framework de componentes de interface(front-end) web e mobile-first.
 - [VS Code](https://code.visualstudio.com/) - Editor de desenvolvimento de aplicações web.
 
 <br>
 
+## 📝 Licença
+<a href="https://opensource.org/licenses/MIT">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-6E40C9?style=flat-square">
+</a>
+
+ &nbsp;&nbsp;&nbsp;&nbsp;Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://opensource.org/licenses/MIT) para mais detalhes.
+
+ <br>
 
 ## 📁 Como Baixar o Projeto
 ```bash
@@ -99,7 +107,7 @@
   # Iniciar o Projeto
   $ npm start
 ```
-
+---
  Desenvolvido 🚀 por: ***_Alex Sandro da Silva lima_***
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alex%20Lima-6E40C9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-sandro-da-silva-lima-8b297839/)](https://www.linkedin.com/in/alex-sandro-da-silva-lima-8b297839/) 
